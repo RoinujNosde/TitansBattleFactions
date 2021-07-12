@@ -1,0 +1,7 @@
+name: TitansBattle-Factions
+main: me.roinujnosde.titansbattlefactions.TitansBattleFactions
+version: 1.0.0
+api-version: 1.13
+depend:
+  - TitansBattle
+  - Factions
